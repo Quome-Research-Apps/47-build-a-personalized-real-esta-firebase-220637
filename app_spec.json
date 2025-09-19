@@ -1,0 +1,1 @@
+{"name": "47-build-a-personalized-real-esta-firebase-220637", "spec": {"port": 8000, "containers": [{"image": "", "name": "47-build-a-personalized-real-esta-firebase-220637", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
